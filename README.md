@@ -67,7 +67,7 @@ Para garantir a segurança e o controle de acesso, o aplicativo inclui uma área
 <h4>Tela de login</h4>
 <img src="" width="900px"/>
 <h4>Tela de Cadastro</h4>
-<img src="" width="900px"/>
+<img src="https://github.com/matheussenadev/CrudPHPMySql/blob/main/imgsCrud/TelaCadastro.PNG" width="900px"/>
 <h4>Tela de Edição</h4>
 <img src="" width="900px"/>
 <h4>Tela de Dados</h4>
