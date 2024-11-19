@@ -7,9 +7,7 @@ Para garantir a segurança e o controle de acesso, o aplicativo inclui uma área
 <p>A visualização gráfica dos dados é feita com o auxílio do Google Charts , que transforma informações em gráficos interativos e dinâmicos, exibindo, por exemplo, uma porcentagem de produtos cadastrados. Isso oferece aos usuários uma visão clara e intuitiva do conjunto de dados disponíveis, permitindo melhor análise e tomada de decisões.</p>
   <img src="https://via.placeholder.com/150" alt="Imagem Exemplo" width="150" height="150">
   <br>
-  <a href="https://github.com/seu-usuario/seu-repositorio">
-    <img src="https://img.shields.io/badge/Visitar%20Projeto-GitHub-blue" alt="Visitar Projeto">
-  </a>
+
 </div>
 <div>
   <h1 align="center">FUNCIONALIDADES</h1>
