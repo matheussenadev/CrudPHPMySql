@@ -5,7 +5,7 @@
 <p>A aplicação foca no gerenciamento de produtos, permitindo que os usuários realizem o cadastro de produtos com as seguintes parâmetros: Nome do Produto, Preçoe Imagem de Identificação. A interface de usuário foi projetada para ser amigável e acessível, otimizando a experiência do usuário ao navegar e realizar operações no sistema.
 Para garantir a segurança e o controle de acesso, o aplicativo inclui uma área de login onde os usuários precisam inserir um nome e senha válidos para acessar as funcionalidades principais. Uma vez autenticados, os usuários têm a possibilidade de cadastrar novos produtos , editar informações de produtos existentes (útil para corrigir dados inseridos erroneamente ou realizar atualizações), excluir registros que não são mais necessários e visualizar os produtos cadastrados em formato gráfico.</p>
 <p>A visualização gráfica dos dados é feita com o auxílio do Google Charts , que transforma informações em gráficos interativos e dinâmicos, exibindo, por exemplo, uma porcentagem de produtos cadastrados. Isso oferece aos usuários uma visão clara e intuitiva do conjunto de dados disponíveis, permitindo melhor análise e tomada de decisões.</p>
-  <img src="https://via.placeholder.com/150" alt="Imagem Exemplo" width="150" height="150">
+  <img src="https://github.com/matheussenadev/CrudPHPMySql/blob/main/LUXMART.png"  width="150" height="150">
   <br>
 
 </div>
